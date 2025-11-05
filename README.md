@@ -1,7 +1,3 @@
-<!--
-✨ Profil GitHub stylé par ChatGPT (modifié pour Gaylor Ratovo)
--->
-
 <h1 align="center">
   👋 Hi, I'm <span style="color:#00BFFF">Tony RANDRIANARISON</span>
 </h1>
@@ -68,22 +64,22 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaylor-ratovo&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaylor-ratovo&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyRandrian&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyRandrian&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaylor-ratovo&theme=tokyonight&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TonyRandrian&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/gaylor-ratovo/gaylor-ratovo/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/TonyRandrian/TonyRandrian/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -92,7 +88,7 @@
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/gaylor-ratovo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/TonyRandrian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
