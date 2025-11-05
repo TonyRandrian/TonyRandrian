@@ -17,7 +17,7 @@
 > Three years in the IT field so far  
 > 🧩 *(Auto-calculated — updates dynamically)*
 
-![Years Badge](https://img.shields.io/badge/Experience-$(date +%Y)-2022=🎉-brightgreen?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-3%20years%20🎉-brightgreen?style=for-the-badge)
 
 ---
 
