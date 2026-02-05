@@ -1,99 +1,53 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#00BFFF">Tony RANDRIANARISON</span>
-</h1>
+# Tony RANDRIANARISON
 
-<h3 align="center">
-  💻 Software Developer & 🧠 AI Learner  
-  🎮 Passionate about Game + AI Development  
-</h3>
+**Software and Web Developer**
+
+---
+
+## About
+
+Software developer with 3+ years of experience in web development and a growing interest in artificial intelligence and game development.
+
+---
+
+## Technical Skills
+
+### Languages
+`Java` `PHP` `Python` `C/C++` `C#` `JavaScript` `HTML` `CSS`
+
+### Frameworks
+`Spring Boot` `Django` `Laravel`
+
+### Databases
+`MySQL` `PostgreSQL` `Oracle`
+
+---
+
+## Projects
+
+### Form Generator
+A dynamic form generator that creates UI forms based on data models.
+
+### Web Framework From Scratch
+A custom lightweight MVC framework built to understand the core mechanics behind frameworks like Spring Boot and Laravel.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyRandrian&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyRandrian&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 🕒 Experience
-> Three years in the IT field so far  
-> 🧩 *(Auto-calculated — updates dynamically)*
+## Contact
 
-![Experience](https://img.shields.io/badge/Experience-3%20years%20🎉-brightgreen?style=for-the-badge)
-
----
-
-### 🧰 Languages
-| Language | Skill |
-|-----------|--------|
-| ☕ Java | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (8.5/10) |
-| 🐘 PHP | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (8/10) |
-| 🧠 Python | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (6/10) |
-| ⚙️ C / C++ | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (6/10) |
-| 🧱 C# | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (6/10) |
-| 🌐 HTML | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (9/10) |
-| 🎨 CSS | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (8/10) |
-| ⚡ JS | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (6/10) |
-
----
-
-### 🧩 Framework Mastery
-| Framework | Level |
-|------------|--------|
-| 🌱 Spring Boot | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (7/10) |
-| 🐍 Django | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (5/10) |
-| ⚙️ Laravel | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ (3/10) |
-
----
-
-### 🗄️ Databases
-| Database | Skill |
-|-----------|--------|
-| 🐬 MySQL | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (7/10) |
-| 🐘 PostgreSQL | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (7/10) |
-| 🧱 Oracle | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ (2/10) |
-
----
-
-### 🚀 Main Projects
-#### 🧩 [Form Generator](#)
-> A smart form generator that dynamically creates UI forms based on data models.
-
-#### ⚙️ [Framework Web From Scratch](#)
-> Building my own lightweight MVC framework to understand the inner workings of frameworks like Spring Boot or Laravel.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyRandrian&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyRandrian&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TonyRandrian&theme=tokyonight&margin-w=15" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/TonyRandrian/TonyRandrian/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 📫 Connect With Me
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/TonyRandrian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 💬 Quote of the Day
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)
+- GitHub: [github.com/TonyRandrian](https://github.com/TonyRandrian)
+the Day
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — Cory House
 
